@@ -1,6 +1,9 @@
-<img src="user-first-digital.png" width="72" height="72" alt="User First Digital logo">
-
-# User First Digital
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="user-first-digital-lockup-dark.svg">
+    <img src="user-first-digital-lockup.svg" width="300" alt="User First Digital">
+  </picture>
+</h1>
 
 We build products for the people who run managed service providers. We’re based in Surrey, British Columbia, Canada.
 
